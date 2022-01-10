@@ -4,5 +4,3 @@
 - 🔭 I’m currently working on game
 - 🖕 I hate graphic designers
 - 🌱 I’m currently learning C#
-
-  ![Live](https://cdn.discordapp.com/attachments/718409124391550996/930129496345047141/Bez_nazwy-1.png)

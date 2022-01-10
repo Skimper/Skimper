@@ -5,4 +5,4 @@
 - 🖕 I hate graphic designers
 - 🌱 I’m currently learning C#
 
-![This is an image](https://cdn.discordapp.com/attachments/370615044603379713/930122809437458492/as5cywh9yta81.png)
+![Live](https://cdn.discordapp.com/attachments/718409124391550996/930125941542371378/Bez_nazwy-1.png)

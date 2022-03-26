@@ -5,4 +5,4 @@
 - 🖕 I hate graphic designers
 - 🌱 I’m currently learning C#
 
-![](https://komarev.com/ghpvc/?Skimper&style=flat-square&color=grey)
+![](https://komarev.com/ghpvc/?username=Skimper&style=flat-square&color=grey)

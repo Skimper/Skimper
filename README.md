@@ -5,4 +5,4 @@
 - 🖕 I hate graphic designers
 - 🌱 I’m currently learning C#
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=grey)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)

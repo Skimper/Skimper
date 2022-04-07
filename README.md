@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning C#
 
 ![](https://komarev.com/ghpvc/?username=Skimper&style=flat-square&color=grey)
-[![Fuck Russia](https://img.shields.io/badge/fuck-russia-e4181c.svg?labelColor=000000)]
+![Fuck Russia](https://img.shields.io/badge/fuck-russia-e4181c.svg?labelColor=000000)

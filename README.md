@@ -21,14 +21,10 @@
         <img width="277em" align="left"
              src="https://github-readme-stats.vercel.app/api/top-langs/?username=skimper&layout=compact&theme=transparent&hide=issues,contribs&border_color=393939&count_private=true" />
     </div><br />
-    <div>
-        <img width="233em" align="center" 
-              src="https://streak-stats.demolab.com?user=Skimper&theme=tokyonight&date_format=%5BY.%5Dn.j&background=39393900&border_radius=6&border=393939&stroke=3391FF&currStreakLabel=3391FF&sideLabels=3391FF&fire=DD4108&currStreakNum=3391FF" alt="skimper" />
-    </div>
 </div>
 
 
-<br />
+<br /><br /><br />
 <h3 align="left">Languages and Tools:</h3>
 <div>
     <br />

@@ -4,7 +4,7 @@
 - 👨‍💻 Oui oui. Je suis un programmeur
 - 🧊 I can create 3d models and simple animations
 - 🐧 I like Linux except Ar*h
-- 🌱 I am currently learning... Everything because we learn all our lives
+- 🌱 I am currently learning... Java!
 - 🖕 I didn't get any talents. I developed all the skills on my own!
 
 <div>

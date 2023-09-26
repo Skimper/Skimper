@@ -9,7 +9,8 @@
 
 <div>
     <img align="left" src="https://komarev.com/ghpvc/?username=Skimper&style=flat-square&color=grey&style=flat" alt="skimper" />
-    <img align="left" src="https://img.shields.io/badge/fuck-russia-e4181c.svg?labelColor=000000" alt="skimper" /> 
+    <img align="left" src="https://img.shields.io/badge/fuck-russia-e4181c.svg?labelColor=000000" alt="Fuck russia" /> 
+    <img aligh="left" src="https://img.shields.io/badge/fuck-ukraine-e8e810.svg?labelColor=000000" alt="Fuck ukraine" />
 </div>
 <br /><br />
 <div>
